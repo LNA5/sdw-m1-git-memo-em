@@ -66,3 +66,12 @@ commande est à faire une fois par projet git, et seulement si l'on
 souhaite le partager / sauvegarder sur github.
 
 ====================================================================
+
+commande : git push -u origin master 
+
+description : configure notre projet pour qu'il s'envoie par défaut sur le
+dépôt "origin" et sur sa branche "master". Cette commande n'est à taper
+qu'une fois par projet. Elle nécessite d'avoir ajouté un dépôt avec la
+commande "git remote"
+
+==========================================================
