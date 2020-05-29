@@ -16,7 +16,7 @@ de notre projet git.
 
 =============================================================
 
-commande : git add <dossier ou fichier>
+commande : git add . <dossier ou fichier>
 
 description : (souvent, on tape : git add .)
 permet d'indiquer à git d'ajouter les modifications ciblées
@@ -28,7 +28,7 @@ une "attention on va sauvegarder, prépare-toi !"
 
 =============================================================
 
-commande : git commit -m <"message">
+commande : git commit -m "message"
 
 description : la commande d'enregistrement des modifications. Une fois
 les modifications ajoutées avec "git add", la commande commit permet 
